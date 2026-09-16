@@ -1,0 +1,51 @@
+{
+  "schema": 1,
+  "app": "rennblock",
+  "latest": "0.1.0",
+  "active": [
+    "0.1.0"
+  ],
+  "message": "This version of Rennblock is no longer enabled. Open the launcher to update.",
+  "min_launcher": "0.1.0",
+  "published": "2026-09-16T15:55:10+00:00",
+  "releases": {
+    "0.1.0": {
+      "url": "https://github.com/benghe-raul/rennblock-status/releases/download/v0.1.0/Rennblock-0.1.0.zip",
+      "sha256": "0875cbf270fff4b80e6a4eee317e2996c87371346db22bf29f10747c6059e97e",
+      "size": 243323048,
+      "entry": "RennblockApp.exe",
+      "files": {
+        "LICENSE.txt": "351455a2b4ee382999b9ed61fd39eb953099edff28e73c458bd809bf5c848247",
+        "PRIVACY.txt": "8e0979863c69a862b2c57df76d4dbdac831c76c5045d2dcde7674fb799f34785",
+        "RennblockApp.exe": "01fde4ea4fd3f0431267443383c1af3a748c74c02060fd97562b0b2857b72c0b",
+        "site/better_sqlite3.node": "b936c55e4d59433fce3e84b6e98ccdc8af0e7eb9243d0c12f1570045da972b9f",
+        "site/LICENSE.txt": "351455a2b4ee382999b9ed61fd39eb953099edff28e73c458bd809bf5c848247",
+        "site/PRIVACY.txt": "8e0979863c69a862b2c57df76d4dbdac831c76c5045d2dcde7674fb799f34785",
+        "site/public/apple-touch-icon.png": "1be2ff32803936f1ef5ba0b3e70b9566f8c126591f88483cfec1696fe62eae19",
+        "site/public/css/panel.css": "5eb7da27adec2feaaecdc2b010ae3724a5506002f5c5ba5a55ccec8f57164ff3",
+        "site/public/css/site.css": "cdb6ab77d5126d10dffb45221fb0f7693f78689d69e9ff821a095fb7d68b7ba0",
+        "site/public/favicon.svg": "16f9249f636054eeec9239c05834c855f9d3ef7fd6a1f8bd5b2f79c39b3d4818",
+        "site/public/fonts/Archivo.ttf": "0e094a7d3c7c4c25cf1310c4b30014f1dae9332220b1c2c88f4fa996f0b05053",
+        "site/public/fonts/IBMPlexMono-Regular.ttf": "7c6fbddca4b700be918f5f6183d9bd4464fa427fe435f0b480d77fe2bb8c5a43",
+        "site/public/fonts/IBMPlexMono-SemiBold.ttf": "f04d7c488ddf7d1fa99f2574efc3406ea4cbe17bb1af3a1ab960f84d0c96a172",
+        "site/public/fonts/Inter-Variable.ttf": "29160a80ff49ddcab2c97711247e08b1fab27a484a329ce8b813d820dc559031",
+        "site/public/icon-192.png": "6086fa254d58f73c6534028e0e66f888ae58cd33a59deee25ce99ed4ea9797ba",
+        "site/public/icon-512.png": "e7fc5c8dabe649207aa78191a54c3577eabca4056b5d4185ecf8d0f854a70d1f",
+        "site/public/index.html": "40d083253552e71aaa577c8fe7ef50639d070ddda2f1f4496f45fa918a3ca1b9",
+        "site/public/js/panel.js": "5118a53d139347488ef71df4de51d09b9f1987f83e6bfbbaad5c946cdfd57437",
+        "site/public/js/site.js": "2207bd085050a69b3363d8e84e3e735b19ea6de1cda92d93f460a6233cd4426e",
+        "site/public/media/hero-loop.jpg": "c837e414e87912b43b922e373b0d4cc1e2beccd7f53abaa844f365785a781fe7",
+        "site/public/media/hero-loop.mp4": "cee04c72c179f4ffaece5236c801a7abd317daee11ed809c5ef7a5b0b036aa34",
+        "site/public/media/hero-poster.jpg": "408c59a87848f378cca6b4e994ea9bd05da15c7997d37ea74a47db59e4bd0d9c",
+        "site/public/media/overlays/media.png": "1068cae9e6af89ebccef1305ae555be224987c793d0c84b07217ba60ff5c953e",
+        "site/public/media/overlays/telemetry.png": "5024515df291f10817bb8898072e565c49ee120c80dec469300075fcd196ecfa",
+        "site/public/media/web/shot-04.jpg": "1443490365a5537bd9fb3aa184eeef0f4cc41a04bd9d5d7fab2516a77e811559",
+        "site/public/og.jpg": "cc4305f53a564aa6f3f08a01e063cdf109c1ddce87536c5abe159fbee04bb0c0",
+        "site/public/robots.txt": "875cdbe52cc643e5e8a11f94b72c64fbc283bd05dd7bf2eff1a8c8703e10291d",
+        "site/public/site.webmanifest": "539fbae6aaff8c194d96d7f88ccf2a70ec95a965216fe3b5803ccabc3895cfaf",
+        "site/rennblock-site.exe": "eb48cce60365f096623d38e2c9bc3b1496359e7e0e5e7b0b379226dc3c3a62da",
+        "site/sql/001_create_laps.sql": "612447d2482fc2eab8a131bdca21e707579f6b626bc60114964840cb71dccedf"
+      }
+    }
+  }
+}
