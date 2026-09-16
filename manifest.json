@@ -1,24 +1,25 @@
 {
   "schema": 1,
   "app": "rennblock",
-  "latest": "0.1.1",
+  "latest": "0.1.2",
   "active": [
     "0.1.0",
-    "0.1.1"
+    "0.1.1",
+    "0.1.2"
   ],
   "message": "This version of Rennblock is no longer enabled. Open the launcher to update.",
   "min_launcher": "0.1.0",
-  "published": "2026-09-16T18:32:48+00:00",
+  "published": "2026-09-16T18:40:50+00:00",
   "releases": {
-    "0.1.1": {
-      "url": "https://github.com/benghe-raul/rennblock-status/releases/download/v0.1.1/Rennblock-0.1.1.zip",
-      "sha256": "f922db174ee3f1acdf8bf388bea517c4a621a523112851352db35e299da38dfb",
-      "size": 243321095,
+    "0.1.2": {
+      "url": "https://github.com/benghe-raul/rennblock-status/releases/download/v0.1.2/Rennblock-0.1.2.zip",
+      "sha256": "da496c7cd74edf6ce2b6e5cc8464f0d054ddb00bad712690966c46f0bd881b70",
+      "size": 243316654,
       "entry": "RennblockApp.exe",
       "files": {
         "LICENSE.txt": "351455a2b4ee382999b9ed61fd39eb953099edff28e73c458bd809bf5c848247",
         "PRIVACY.txt": "2698afe6b926ba4606b47a5c122dfc8df441adfebfc0b4446a422e2066152f30",
-        "RennblockApp.exe": "11afda749dc63f4353114d46ca25500922f279c742c984eac4624d1ca0dcb85c",
+        "RennblockApp.exe": "70be9b61f744bd38a068cc29d48127ffbb84c162f1ab0d8b66e39d047c68fff0",
         "site/better_sqlite3.node": "b936c55e4d59433fce3e84b6e98ccdc8af0e7eb9243d0c12f1570045da972b9f",
         "site/LICENSE.txt": "351455a2b4ee382999b9ed61fd39eb953099edff28e73c458bd809bf5c848247",
         "site/PRIVACY.txt": "2698afe6b926ba4606b47a5c122dfc8df441adfebfc0b4446a422e2066152f30",
@@ -32,9 +33,9 @@
         "site/public/fonts/Inter-Variable.ttf": "29160a80ff49ddcab2c97711247e08b1fab27a484a329ce8b813d820dc559031",
         "site/public/icon-192.png": "6086fa254d58f73c6534028e0e66f888ae58cd33a59deee25ce99ed4ea9797ba",
         "site/public/icon-512.png": "e7fc5c8dabe649207aa78191a54c3577eabca4056b5d4185ecf8d0f854a70d1f",
-        "site/public/index.html": "40d083253552e71aaa577c8fe7ef50639d070ddda2f1f4496f45fa918a3ca1b9",
-        "site/public/js/panel.js": "6af6b265583ef3fded1f5fabb9520b94ddb361ada8db8264642c15b711de0391",
-        "site/public/js/site.js": "7de4a641acaa14721376002d6b8417e03c6dc5ad8ddb54238dc0096f0cc1478e",
+        "site/public/index.html": "4cf2c0245678d8d40fa22298d5ab08db44ed579ddce352973f1beb284105408b",
+        "site/public/js/panel.js": "6fd7f1de3be64b0a3421c943f33b7a5ecf41e2fc50a571de5b3cde062f60b757",
+        "site/public/js/site.js": "b7614fb4bea986899df7178a50b7673f5b3ac034cf8be4c073c2c44535646b70",
         "site/public/media/hero-loop.jpg": "c837e414e87912b43b922e373b0d4cc1e2beccd7f53abaa844f365785a781fe7",
         "site/public/media/hero-loop.mp4": "cee04c72c179f4ffaece5236c801a7abd317daee11ed809c5ef7a5b0b036aa34",
         "site/public/media/hero-poster.jpg": "408c59a87848f378cca6b4e994ea9bd05da15c7997d37ea74a47db59e4bd0d9c",
@@ -44,7 +45,7 @@
         "site/public/og.jpg": "cc4305f53a564aa6f3f08a01e063cdf109c1ddce87536c5abe159fbee04bb0c0",
         "site/public/robots.txt": "875cdbe52cc643e5e8a11f94b72c64fbc283bd05dd7bf2eff1a8c8703e10291d",
         "site/public/site.webmanifest": "539fbae6aaff8c194d96d7f88ccf2a70ec95a965216fe3b5803ccabc3895cfaf",
-        "site/rennblock-site.exe": "2065080e165639a21feaadc7f6b05458d148e3a341f6bf4fda4085677b36a8c4",
+        "site/rennblock-site.exe": "88ff30b84adc99db75ad31e29f42257f2583fe91597b76527f59c5c1ac90cf83",
         "site/sql/001_create_laps.sql": "612447d2482fc2eab8a131bdca21e707579f6b626bc60114964840cb71dccedf"
       }
     }
