@@ -84,13 +84,13 @@ There is no account. Your laps and settings are stored in `%LOCALAPPDATA%\Rennbl
 
 <img src="docs/launcher-update.png" alt="The launcher offering an update: Rennblock 0.1.10 is ready, Update now" width="80%">
 
-You download one file, `Rennblock.exe`, once. It installs Rennblock in your user folder (no administrator rights), adds it to the Start menu, checks every file against its published fingerprint each time it starts, and offers each new version: **Update now**, **Not now** or **Skip this version**.
+You download one file, `Rennblock.exe`, once, and it stays the same file from one version to the next. It installs Rennblock in your user folder (no administrator rights), adds it to the Start menu, checks every file against its published fingerprint each time it starts, and offers each new version: **Update now**, **Not now** or **Skip this version**.
 
 ## Install
 
 1. **[Download `Rennblock.exe`](https://github.com/benghe-raul/rennblock-status/releases/latest/download/Rennblock.exe)** and run it.
 2. Windows may stop it, because Rennblock is not code-signed: **[here is what to do](INSTALL.md#if-windows-blocks-rennblock)**.
-3. Read the privacy notice and the license, tick the box, and choose **Accept and continue**. The launcher downloads Rennblock and checks it.
+3. After a few seconds of **Getting ready**, read the privacy notice and the license, tick the box, and choose **Accept and continue**. The launcher downloads Rennblock and checks it.
 4. Start Assetto Corsa EVO and drive. The telemetry overlay is on from your first lap, at the bottom centre of the screen; the panel opens from the tray icon.
 
 The **[install guide](INSTALL.md)** walks through it with pictures.
@@ -106,6 +106,9 @@ No. Everything stays on your PC. At start the launcher reads two small public fi
 **Which games does it work with?**
 Assetto Corsa EVO.
 
+**I had Rennblock 0.1.10 and it says it has a new launcher.**
+Download `Rennblock.exe` again from the link above and open it. Your laps, settings and app are all still there, and the Start menu and Installed apps move to the new file by themselves.
+
 **How do I remove it?**
 From **Settings → Apps → Installed apps**, or from the Start menu. It asks whether to keep your laps and settings or delete them.
 
@@ -120,7 +123,7 @@ This repository is not the source code. It carries the signed update list that t
 - `manifest.json` — the current release, where to download it, and the SHA-256 fingerprint of every file that is checked each time Rennblock starts.
 - `manifest.sig` — the Ed25519 signature of `manifest.json`.
 
-The launcher accepts an update list only when that signature matches the public key built into it, so a tampered list is refused even if this repository were altered. Each release contains the launcher and the application archive, with their fingerprints written in the release notes.
+The launcher accepts an update list only when that signature matches the public key built into it, so a tampered list is refused even if this repository were altered. Each release contains `Rennblock.exe` (the same file in every release), the launcher's archive and the application's archive, with their fingerprints written in the release notes.
 
 ---
 

@@ -1,6 +1,6 @@
 # Installing Rennblock
 
-Rennblock runs on Windows 10 or 11, 64-bit, next to Assetto Corsa EVO. You need one file; the launcher in it does the rest and keeps Rennblock up to date.
+Rennblock runs on Windows 10 or 11, 64-bit, next to Assetto Corsa EVO. You need one file: it sets Rennblock up and keeps it up to date, and it stays the same file from one version to the next.
 
 ## 1. Download
 
@@ -10,19 +10,25 @@ Rennblock runs on Windows 10 or 11, 64-bit, next to Assetto Corsa EVO. You need 
 
 Double-click `Rennblock.exe`. If Windows stops it, see **[If Windows blocks Rennblock](#if-windows-blocks-rennblock)** below, then come back here.
 
-## 3. Read and accept
+## 3. Getting ready
+
+<img src="docs/getting-ready.png" alt="Rennblock getting ready: downloading Rennblock, at 60 %" width="80%">
+
+The first time, a small window downloads Rennblock's launcher and checks it. It takes a few seconds.
+
+## 4. Read and accept
 
 <img src="docs/launcher-terms.png" alt="The launcher's first screen: the privacy notice and the license, with the box ticked and Accept and continue" width="80%">
 
 The launcher shows the privacy notice and the license. Tick the box and choose **Accept and continue**.
 
-## 4. Let it download
+## 5. Let it download
 
 <img src="docs/launcher-download.png" alt="The launcher downloading Rennblock 0.1.10, at 60 %" width="80%">
 
 The launcher downloads Rennblock and checks every file against its published fingerprint. It installs in your user folder, so no administrator rights are needed, and it adds Rennblock to the Start menu and to Installed apps.
 
-## 5. Drive
+## 6. Drive
 
 Start Assetto Corsa EVO and go on track. The telemetry overlay is on from your first lap, at the bottom centre of the screen.
 
@@ -37,6 +43,10 @@ When a new version is out, the launcher offers it as Rennblock starts: **Update 
 ## Removing it
 
 Open **Settings → Apps → Installed apps**, find Rennblock and choose **Uninstall**, or use the Start menu. It asks whether to keep your laps and settings or delete them.
+
+## Coming from 0.1.10
+
+If your Rennblock says it has a new launcher, download `Rennblock.exe` again from the link above and open it. Your laps, settings and app are all still there, and the Start menu and Installed apps move to the new file by themselves.
 
 ## If Windows blocks Rennblock
 
