@@ -1,0 +1,63 @@
+{
+  "schema": 1,
+  "app": "rennblock",
+  "latest": "0.1.13-beta.1",
+  "active": [
+    "0.1.13-beta.1"
+  ],
+  "message": "Rennblock has a new launcher.\nDownload Rennblock.exe again from github.com/benghe-raul/rennblock-status: your laps and settings stay.",
+  "note": "This version of Rennblock is no longer enabled. Open Rennblock to update.",
+  "min_launcher": "0.1.11",
+  "published": "2026-10-06T15:00:24+00:00",
+  "releases": {
+    "0.1.13-beta.1": {
+      "url": "https://github.com/benghe-raul/rennblock-status/releases/download/v0.1.13-beta.1/Rennblock-0.1.13-beta.1.zip",
+      "sha256": "bc6d17225d7e459d40e46870ebc6cf7eaa73421c3222718eae239a6db2fc2f00",
+      "size": 162504266,
+      "entry": "RennblockApp.exe",
+      "files": {
+        "LICENSE.txt": "16e3ec2ccd1616fb6209ba5841244031ed7700474b57a142d510a7fb49eb7332",
+        "PRIVACY.txt": "955ba6e024f658421afa2576395fd264329c017e17e144231fcd60701ed3f9fe",
+        "RennblockApp.exe": "29781b0f65a433f0f98a4d1fd55ac3d0b7b0503e79bb86152fd091e38bd6ac04"
+      },
+      "launcher": {
+        "url": "https://github.com/benghe-raul/rennblock-status/releases/download/v0.1.13-beta.1/RennblockLauncher-0.1.13-beta.1.zip",
+        "sha256": "58c1b5c72861a639d4bd0791120f1feead22318e2a2d2968069c3b3637a064c7",
+        "size": 17626567,
+        "entry": "RennblockLauncher.exe",
+        "files": {
+          "_brotli.pyd": "a7f83086a999a01db0ca8cba6d476b4aa74ec2f96292cf4e17446dd30c085c61",
+          "_bz2.pyd": "55894b2b98d01f37b9a8cf4daf926d0161ff23c2fb31c56f9dbbac3a61932712",
+          "_cffi_backend.pyd": "d5b09da2e726b4e90cf0edad5d2a0ec52f369dfd060e14d3807a32b2205031fa",
+          "_ctypes.pyd": "5c4c489ac052795c27af063c96bc4db5ab250144d4839050cfa9bb3836b87c32",
+          "_decimal.pyd": "040f361f63204b55c17a100c260c7ddfadd00866cc055fbd641b83a6747547d5",
+          "_hashlib.pyd": "78223aef72777efc93c739f5308a3fc5de28b7d10e6975b8947552a62592772b",
+          "_lzma.pyd": "e44dea262a24df69fd9b50b08d09ae6f8b051137ce0834640c977091a6f9fca8",
+          "_queue.pyd": "73cade82ee139459fe5841e5631274fc9caf7f579418b613f278125435653539",
+          "_socket.pyd": "62d0493ced6ca33e2fd8141649dd9889c23b2e9afc5fdf56edb4f888c88fb823",
+          "_ssl.pyd": "e94f0195363c5c9babfc4c17ec6fb1aa8bbabf59e377db66ce6a79c4c58bbd07",
+          "_tkinter.pyd": "f34a80dc8435934c410b621a354ea88801d41d1089b0f3128e60aac170b083ad",
+          "_wmi.pyd": "afad80f9e62a57814779cf3e48352b583c1a0697b11a23cc9db3f4e43f7f8664",
+          "charset_normalizer/md.pyd": "89d8172b5f460c3fd85716c9641643fd7d893365a99867df4471b017f2995695",
+          "charset_normalizer/md__mypyc.pyd": "3ccacfdbf227750083980a7de0c982be26dfebac26e4fa599d1e7a5866e92a21",
+          "cryptography/hazmat/bindings/_rust.pyd": "1d4332a447cab13dec8e3a533ad579e0e562b79e40822c931f33769758fc7156",
+          "libcrypto-3.dll": "4e5d5d20d6d31e72ab341c81e97b89e514326c4c861b48638243bdf0918cfa43",
+          "libffi-8.dll": "eff52743773eb550fcc6ce3efc37c85724502233b6b002a35496d828bd7b280a",
+          "libssl-3.dll": "2e4d35b681a172d3298caf7dc670451be7a8ba27c26446efc67470742497a950",
+          "LICENSE.txt": "16e3ec2ccd1616fb6209ba5841244031ed7700474b57a142d510a7fb49eb7332",
+          "PRIVACY.txt": "955ba6e024f658421afa2576395fd264329c017e17e144231fcd60701ed3f9fe",
+          "python3.dll": "c1de4bfe57dc4a5be8c72c865d617dc39dfd8162fcd2ce1fac9f401cf9efb504",
+          "python313.dll": "78b1dd211c0e66a0603df48da2c9b67a915ab3258701b9285d3faa255ed8dc25",
+          "RennblockLauncher.exe": "0dc921198579c3ddcaef05fbe5189f3445f0a7c38d5f0142e8b9ce72373104e1",
+          "select.pyd": "81f124b01a85882e362a42e94a13c0eff2f4ccd72d461821dc5457a789554413",
+          "tcl86t.dll": "7269609c395716853a95e9b37828cda4ffb03d7cb956ba82147eb18b2e528f5f",
+          "tk86t.dll": "32e4e077e4a55860dc84ea15d25c168bf1e656973e07fcc2f43d1a7ce440bd49",
+          "unicodedata.pyd": "3f462ee6e7743a87e5791181936539642e3761c55de3de980a125f91fe21f123",
+          "vcruntime140.dll": "36585912e5eaf83ba9fea0631534f690ccdc2d7ba91537166fe53e56c221e153",
+          "vcruntime140_1.dll": "82a2f9ae1e6146ae3cb0f4bc5a62b7227e0384209d9b1aef86bbcc105912f7cd",
+          "zlib1.dll": "908ac77373641d1733fa847c59e0e854088f80252ee544223c6488b119055e9a"
+        }
+      }
+    }
+  }
+}
