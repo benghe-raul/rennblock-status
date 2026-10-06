@@ -70,7 +70,7 @@ Drag the overlays on a map of your screen, with or without the game running. The
 
 <img src="docs/panel-settings.png" alt="The Settings page: start with Windows, the tray, the shortcuts and the refresh rate" width="100%">
 
-Start Rennblock with Windows if you like, and leave it in the tray: closing the window keeps the overlays on. **Ctrl + Alt + O** shows or hides them, and the refresh rate follows your monitor or is set to 60, 120, 144 or 180 Hz.
+Start Rennblock with Windows if you like, and leave it in the tray: closing the window keeps the overlays on. **Ctrl + Shift + O** shows or hides them, and the refresh rate follows your monitor or is set to 60, 120, 144 or 180 Hz.
 
 <img src="docs/panel-overlay.png" alt="The Overlay page: each overlay on or off, with the telemetry's options open" width="100%">
 
