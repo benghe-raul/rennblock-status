@@ -1,29 +1,29 @@
 {
   "schema": 1,
   "app": "rennblock",
-  "latest": "0.1.14-beta.2",
+  "latest": "0.1.14-beta.3",
   "active": [
-    "0.1.14-beta.2"
+    "0.1.14-beta.3"
   ],
   "message": "Rennblock has a new launcher.\nDownload Rennblock.exe again from github.com/benghe-raul/rennblock-status: your laps and settings stay.",
   "note": "This version of Rennblock is no longer enabled. Open Rennblock to update.",
   "min_launcher": "0.1.11",
-  "published": "2026-10-09T22:55:16+00:00",
+  "published": "2026-10-10T13:16:51+00:00",
   "releases": {
-    "0.1.14-beta.2": {
-      "url": "https://github.com/benghe-raul/rennblock-status/releases/download/v0.1.14-beta.2/Rennblock-0.1.14-beta.2.zip",
-      "sha256": "e789101c9fc1206500bc778daccb74ac2f8770e4ec1fe8a8178995bbaa25fd87",
-      "size": 164514863,
+    "0.1.14-beta.3": {
+      "url": "https://github.com/benghe-raul/rennblock-status/releases/download/v0.1.14-beta.3/Rennblock-0.1.14-beta.3.zip",
+      "sha256": "1783dcb67c66c9df41f27fb952964f40747a1a230d96161358762bc2b375301d",
+      "size": 164528533,
       "entry": "RennblockApp.exe",
       "files": {
         "LICENSE.txt": "14bbacbe473a8794d50b3cf69a08c14ccc135b40c3f3b44bcde90c855c27e3ac",
         "PRIVACY.txt": "bec7f11291fe1c0287e123faccfa64fd6f42c79d284dc2f23431e048dfb96d0b",
-        "RennblockApp.exe": "470e5e0fdb4b3c401d0777ac93337666af5cc41ebbce1100419f7fdcaaaed653"
+        "RennblockApp.exe": "d50ef7f7721adeabcf7cb7f4b44b01aaca3afdbede011990a465a68d53d4342e"
       },
       "launcher": {
-        "url": "https://github.com/benghe-raul/rennblock-status/releases/download/v0.1.14-beta.2/RennblockLauncher-0.1.14-beta.2.zip",
-        "sha256": "c85cb3b4e6e0028b5656d3e0f00e5b9ce72814b369750e82ea38baba0f27e5cf",
-        "size": 17672307,
+        "url": "https://github.com/benghe-raul/rennblock-status/releases/download/v0.1.14-beta.3/RennblockLauncher-0.1.14-beta.3.zip",
+        "sha256": "d5a2ea79e6ff0f49b36ad40b0068b8595dd0f89d353314a657ef10d46869eaf9",
+        "size": 17673315,
         "entry": "RennblockLauncher.exe",
         "files": {
           "_brotli.pyd": "a7f83086a999a01db0ca8cba6d476b4aa74ec2f96292cf4e17446dd30c085c61",
@@ -48,7 +48,7 @@
           "PRIVACY.txt": "bec7f11291fe1c0287e123faccfa64fd6f42c79d284dc2f23431e048dfb96d0b",
           "python3.dll": "c1de4bfe57dc4a5be8c72c865d617dc39dfd8162fcd2ce1fac9f401cf9efb504",
           "python313.dll": "78b1dd211c0e66a0603df48da2c9b67a915ab3258701b9285d3faa255ed8dc25",
-          "RennblockLauncher.exe": "ffc5e93b5b4e1eef807d76d23eb60a67a340e273b613e2c724f92a8efd1a65f4",
+          "RennblockLauncher.exe": "ebaafa453af4fe446564cc0bf5c15f7f511d922e9deb0ee9cc52979e8474efa6",
           "select.pyd": "81f124b01a85882e362a42e94a13c0eff2f4ccd72d461821dc5457a789554413",
           "tcl86t.dll": "7269609c395716853a95e9b37828cda4ffb03d7cb956ba82147eb18b2e528f5f",
           "tk86t.dll": "32e4e077e4a55860dc84ea15d25c168bf1e656973e07fcc2f43d1a7ce440bd49",
