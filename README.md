@@ -55,7 +55,7 @@ The media overlay shows what Windows is playing: cover, title, artist and positi
 
 Rennblock saves your laps as you drive.
 
-- **Your driving:** a calendar of the days you were on track, with this week, this month, your streak and your best day.
+- **Your driving:** a calendar of the days you were on track, with this week, this month, your streak and your best day, counting each lap as you drive it.
 - **This session:** track, car and laps, live.
 - **Recent laps**, each one marked valid or out.
 - **Personal bests**, one per track and car, from valid laps only.
@@ -70,7 +70,7 @@ Drag the overlays on a map of your screen, with or without the game running. The
 
 <img src="docs/panel-settings.png" alt="The Settings page: start with Windows, the tray, the shortcuts and the refresh rate" width="100%">
 
-Start Rennblock with Windows if you like, and leave it in the tray: closing the window keeps the overlays on. **Ctrl + Shift + O** shows or hides them, and the refresh rate follows your monitor or is set to 60, 120, 144 or 180 Hz.
+Start Rennblock with Windows if you like, and leave it in the tray, where it uses next to nothing: closing the window keeps the overlays on. **Ctrl + Shift + O** shows or hides them, and the refresh rate follows your monitor or is set to 60, 120, 144 or 180 Hz.
 
 <img src="docs/panel-overlay.png" alt="The Overlay page: each overlay on or off, with the telemetry's options open" width="100%">
 
@@ -82,7 +82,7 @@ There is no account. Your laps and settings are stored in `%LOCALAPPDATA%\Rennbl
 
 ## Updates you can trust
 
-<img src="docs/launcher-update.png" alt="The launcher offering an update: Rennblock 0.1.10 is ready, Update now" width="80%">
+<img src="docs/launcher-update.png" alt="The launcher offering an update: Rennblock 0.1.15 is ready, you have 0.1.14; Skip this version, Not now, Update now" width="80%">
 
 You download one file, `Rennblock.exe`, once, and it stays the same file from one version to the next. It installs Rennblock in your user folder (no administrator rights), adds it to the Start menu, checks every file against its published fingerprint each time it starts, and offers each new version: **Update now**, **Not now** or **Skip this version**.
 
@@ -122,6 +122,7 @@ This repository is not the source code. It carries the signed update list that t
 
 - `manifest.json` — the current release, where to download it, and the SHA-256 fingerprint of every file that is checked each time Rennblock starts.
 - `manifest.sig` — the Ed25519 signature of `manifest.json`.
+- `beta/` — the same pair for the Beta branch, where a version is tried before it is released here.
 
 The launcher accepts an update list only when that signature matches the public key built into it, so a tampered list is refused even if this repository were altered. Each release contains `Rennblock.exe` (the same file in every release), the launcher's archive and the application's archive, with their fingerprints written in the release notes.
 

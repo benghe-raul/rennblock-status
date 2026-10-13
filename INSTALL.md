@@ -24,7 +24,7 @@ The launcher shows the privacy notice and the license. Tick the box and choose *
 
 ## 5. Let it download
 
-<img src="docs/launcher-download.png" alt="The launcher downloading Rennblock 0.1.10, at 60 %" width="80%">
+<img src="docs/launcher-download.png" alt="The launcher downloading Rennblock 0.1.15, at 60 %" width="80%">
 
 The launcher downloads Rennblock and checks every file against its published fingerprint. It installs in your user folder, so no administrator rights are needed, and it adds Rennblock to the Start menu and to Installed apps.
 
@@ -36,7 +36,7 @@ The panel opens from the Rennblock icon in the tray, next to the clock. There yo
 
 ## Updates
 
-<img src="docs/launcher-update.png" alt="The launcher offering an update: Rennblock 0.1.10 is ready, Skip this version, Not now, Update now" width="80%">
+<img src="docs/launcher-update.png" alt="The launcher offering an update: Rennblock 0.1.15 is ready, you have 0.1.14; Skip this version, Not now, Update now" width="80%">
 
 When a new version is out, the launcher offers it as Rennblock starts: **Update now**, **Not now** or **Skip this version**.
 
